@@ -1,0 +1,47 @@
+.home_container{
+    display: flex;
+    background-color: rgb(15, 22, 36);
+    padding: 10px 4.8rem;
+    gap: 5rem;
+    align-items: center;
+}
+.home_details{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    gap: 1rem;
+}
+.home_details span:nth-of-type(1){
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    font-size: 3rem;
+    font-weight: bold;
+    color:rgb(242, 245, 247);
+    font-family: "Space Grotesk", sans-serif;
+}
+.home_details span:nth-of-type(2){
+    color: rgba(255, 255, 255, 0.5);
+    font-family: "Space Grotesk", sans-serif;
+    line-height: 150%;
+    font-size: 24px;
+    display: flex;
+    text-align: left;
+}
+.home_details>button{
+    background:linear-gradient(270deg, rgb(19, 173, 199) 0%, rgb(148, 93, 214) 100%);;
+    width:262px;
+    height: 62px;
+    border-radius: 50px;
+    font-size: 24px;
+    border: none;
+    color: white;
+    font-family: "Space Grotesk", sans-serif;
+    cursor: pointer;
+
+}
+.home_img>img{
+    width: 350px;
+    height: 400px;
+}

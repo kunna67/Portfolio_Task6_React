@@ -1,0 +1,25 @@
+.nav_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 2rem 0px 5rem;
+    background: rgb(15, 22, 36);
+    color: rgb(242, 245, 247)
+}
+.nav_head{
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+}
+.nav_list{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+.list_view{
+    display: flex;
+    list-style: none;
+    padding-right: 3rem;
+    gap: 3rem;
+    font-size: 1.5em;
+}
