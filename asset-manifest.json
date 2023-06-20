@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Task6_React/static/css/main.b08c313a.css",
+    "main.js": "/Portfolio_Task6_React/static/js/main.e6adf7e1.js",
+    "static/media/kunnal.png": "/Portfolio_Task6_React/static/media/kunnal.308cc5898558295e2b42.png",
+    "static/media/img2.png": "/Portfolio_Task6_React/static/media/img2.4e9137b4e2a4f551543d.png",
+    "static/media/Capture4.PNG": "/Portfolio_Task6_React/static/media/Capture4.9bbc07457d1daaa9968d.PNG",
+    "static/media/Olym Peak.PNG": "/Portfolio_Task6_React/static/media/Olym Peak.5f1af963220ceec57651.PNG",
+    "static/media/certificate.PNG": "/Portfolio_Task6_React/static/media/certificate.f5c6f55acdf45f0e3439.PNG",
+    "index.html": "/Portfolio_Task6_React/index.html",
+    "main.b08c313a.css.map": "/Portfolio_Task6_React/static/css/main.b08c313a.css.map",
+    "main.e6adf7e1.js.map": "/Portfolio_Task6_React/static/js/main.e6adf7e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b08c313a.css",
+    "static/js/main.e6adf7e1.js"
+  ]
+}
